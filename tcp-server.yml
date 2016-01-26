@@ -1,5 +1,5 @@
 tcp:
-  port: 4444
+  port: 4440
 info:
   logging:
     levels:
