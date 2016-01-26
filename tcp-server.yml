@@ -1,4 +1,5 @@
-tcp.port:4444
+tcp:
+  port: 4444
 info:
   logging:
     levels:
