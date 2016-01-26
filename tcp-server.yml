@@ -1,1 +1,5 @@
 tcp.port:4444
+info:
+  logging:
+    levels:
+      org.springframework.boot.env.PropertySourcesLoader: TRACE
